@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**DavidMoises26/davidmoises26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DavidMoises26/davidmoises26.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
